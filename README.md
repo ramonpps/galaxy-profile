@@ -9,12 +9,15 @@
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/ramonpps/">
-    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="./Curriculo-Ramon.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Currículo-080c14?style=for-the-badge&logo=googledocs&logoColor=34d399" alt="Currículo"/>
   </a>
 </div>
+
+<br/>
+<br/>
 <div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
