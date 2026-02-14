@@ -78,7 +78,7 @@ galaxy_arms:
 projects:
   - repo: "ramonpps/ramonflix-frontend"
     arm: 0
-    description: "Interface de usuário (Client-Side) do projeto RamonFlix, uma plataforma de streaming de vídeo desenvolvida com React.js."
+    description: "Interface de usuario (Client-Side) do projeto RamonFlix, uma plataforma de streaming de vídeo desenvolvida com React.js."
   - repo: "ramonpps/ramonflix-backend"
     arm: 1
     description: "API RESTful do projeto RamonFlix, desenvolvida em Ruby on Rails. Esta aplicação atua como o 'cérebro' da arquitetura de microsserviços do projeto, sendo responsável pela orquestração de dados, gerenciamento de catálogo e lógica de negócios para a entrega de conteúdo."

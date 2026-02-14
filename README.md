@@ -5,10 +5,10 @@
      by the GitHub Actions workflow or by running: python -m generator.main -->
 
 <div align="center">
-  <a href="mailto:ramon.ppsantos@hotmail.com">
+  <a href="mailto:ramon.ppsantos@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/ramonpps/">
+  <a href="https://www.linkedin.com/in/ramonpps/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="./Curriculo-Ramon.pdf" target="_blank">
