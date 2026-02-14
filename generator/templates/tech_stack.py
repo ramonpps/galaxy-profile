@@ -240,6 +240,10 @@ def render(
         exclude: languages to exclude
         max_display: max languages to show
     """
+    if "Linear Programming" in languages:
+            del languages["Linear Programming"]
+        # --------------------------------
+
     lang_data = calculate_language_percentages(languages, exclude, max_display)
 
     # Left side: Language bars
