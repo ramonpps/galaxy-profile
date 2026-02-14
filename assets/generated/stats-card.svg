@@ -19,7 +19,7 @@
         fill="#0f1623" stroke="#1a2332" stroke-width="1"/>
 
   <!-- Section title -->
-  <text x="30" y="38" fill="#64748b" font-size="11" font-family="monospace" letter-spacing="3">MISSION TELEMETRY</text>
+  <text x="30" y="38" fill="#64748b" font-size="11" font-family="monospace" letter-spacing="3">Estatisticas</text>
 
   <!-- Dividers -->
     <line x1="170.0" y1="55" x2="170.0" y2="155" stroke="#1a2332" stroke-width="1" opacity="0.5"/>

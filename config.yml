@@ -84,7 +84,7 @@ projects:
     description: "API RESTful do projeto RamonFlix, desenvolvida em Ruby on Rails. Esta aplicação atua como o 'cérebro' da arquitetura de microsserviços do projeto, sendo responsável pela orquestração de dados, gerenciamento de catálogo e lógica de negócios para a entrega de conteúdo."
   - repo: "ramonpps/ramonflix-stream-service"
     arm: 2
-    description: "microsserviço de streaming do ecossistema RamonFlix, desenvolvido em Node.js. Este serviço atua como um motor de processamento e transmissão de vídeo, responsável por conectar-se a redes descentralizadas (P2P), realizar o buffering de mídia e entregar um fluxo de vídeo compatível com navegadores web (HTTP Stream)."
+    description: "Microsserviço de streaming do ecossistema RamonFlix, desenvolvido em Node.js. Este serviço atua como um motor de processamento e transmissão de vídeo, responsável por conectar-se a redes descentralizadas (P2P), realizar o buffering de mídia e entregar um fluxo de vídeo compatível com navegadores web (HTTP Stream)."
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
 theme:

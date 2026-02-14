@@ -5,31 +5,21 @@
      by the GitHub Actions workflow or by running: python -m generator.main -->
 
 <div align="center">
+  <a href="mailto:ramon.ppsantos@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ramonpps/">
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+  <a href="./Curriculo-Ramon.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Currículo-080c14?style=for-the-badge&logo=googledocs&logoColor=34d399" alt="Currículo"/>
+  </a>
+</div>
+<div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
 <br/>
-<details open>
-<summary><strong>Sobre</strong></summary>
-
-<br/>
-
-Desenvolvedor de software dedicado em fullstack e mobile, com ampla experiência e graduando em ciência da computação na UFF. Especializado em desenvolver tanto sistemas greenfield quanto na evolução de legados. Me destaco por:
-
-<br/>
-
-✓ **Mobile:** Flutter, React native, Swift, com experiência em deploy de aplicativos na playstore, appstore e geração de apks/ipas; <br/>
-✓ **Frontend:** React, Bootstrap, Tailwind, Javascript, Typescript, Wordpress, com experiência em deploy na nuvem (Vercel) e em servidores locais; <br/>
-✓ **Backend:** Ruby on Rails, Flask, FastAPI, Spring, Node, além de Docker, com experiência em deploy na nuvem (Render) e em servidores locais; <br/>
-✓ **Bancos de dados:** MySQL, PostgreSQL, SQLite Firebase, InfluxDB, Redis, com experiência em arquiteturas de mensageria utilizando RabbitMQ e Sidekiq; <br/>
-✓ **Ferramentas:** n8n, metodologias ágeis, controle de versionamento git + github e testes automatizados (TDD)
-
-<br/>
-
-Minha abordagem proativa, habilidades técnicas e proficiência em inglês me posicionam como um profissional preparado para enfrentar desafios e contribuir significativamente para o sucesso dos projetos em que me envolvo.
-
-**Atualmente em:** Universidade Federal Fluminense - Niterói, Rio de Janeiro
-</details>
 
 <div align="center">
   <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
@@ -52,11 +42,4 @@ Minha abordagem proativa, habilidades técnicas e proficiência em inglês me po
 
 <br/>
 
-<div align="center">
-  <a href="mailto:ramon.ppsantos@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ramonpps/">
-    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
-  </a>
-</div>
+
