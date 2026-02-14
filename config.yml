@@ -51,6 +51,10 @@ galaxy_arms:
       - "PostgreSQL"
       - "Redis"
       - "RabbitMQ"
+      - "Docker"
+      - "GitHub Actions"
+      - "Render"
+      - "Vercel"
   - name: "Mobile"
     color: "synapse_cyan"
     items:
@@ -58,13 +62,13 @@ galaxy_arms:
       - "React Native"
       - "Swift"
       - "Kotlin"
-  - name: "DevOps"
-    color: "axon_amber"
-    items:
-      - "Docker"
-      - "GitHub Actions"
-      - "Render"
-      - "Vercel"
+  # - name: "DevOps"
+  #   color: "axon_amber"
+  #   items:
+  #     - "Docker"
+  #     - "GitHub Actions"
+  #     - "Render"
+  #     - "Vercel"
 
 # Featured projects shown as constellation stars
 # Each project needs:
